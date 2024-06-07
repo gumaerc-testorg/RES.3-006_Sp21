@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021/mitres3-006s21-th.jpg
+file_size: 16373
 file_type: image/jpeg
 image_metadata:
   caption: ''
