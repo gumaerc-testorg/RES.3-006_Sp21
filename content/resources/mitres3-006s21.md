@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021/mitres3-006s21.jpg
+file_size: 57451
 file_type: image/jpeg
 image_metadata:
   caption: 'The mentoring map tool helps to visualize one''s current mentoring network,
