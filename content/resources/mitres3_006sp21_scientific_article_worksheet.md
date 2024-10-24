@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021/mitres3_006sp21_scientific_article_worksheet.pdf
+file: /ol-ocw-studio-app/courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021/mitres3_006sp21_scientific_article_worksheet.pdf
 file_size: 164842
 file_type: application/pdf
 image_metadata:
