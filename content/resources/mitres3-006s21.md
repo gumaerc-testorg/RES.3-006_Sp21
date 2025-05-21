@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-3-006-micro-mentoring-resources-and-materials-science-curriculum-spring-2021/mitres3-006s21.jpg
+file: courses/micro-mentoring-resources-and-materials-science-curriculum/mitres3-006s21.jpg
 file_size: 57451
 file_type: image/jpeg
 image_metadata:
