@@ -25,10 +25,10 @@ By the end of this training, mentors will be able to:
 
 Training will synthesize material from the following references:
 
-- [*Entering Mentoring*](https://cimerproject.org/entering-mentoring/), Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, First Edition: 2015. ISBN: 9781464184901.
+- {{% resource_link "99d7cfdc-6ba1-4c74-abc3-dd2529f719c9" "*Entering Mentoring*" %}}, Christine Pfund, Janet Branchaw, and Jo Handelsman, W. H. Freeman, First Edition: 2015. ISBN: 9781464184901.
 - {{% resource_link "f331f992-e8c0-4e79-a007-559823096a07" "Mentoring resources" %}}, courtesy of Lourdes Alemán and Benjamin Hansberry at MIT Teaching + Learning Lab, as well as the Teaching Development Fellowship Program.
-- [Mentor Resources, *MIT UROP Office*](https://urop.mit.edu/mentors/resources)
-- [*Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do*](https://wwnorton.com/books/Whistling-Vivaldi/), Claude M Steele, 2010. ISBN: 9780393062496.
+- {{% resource_link "a0abfd21-c08c-417e-9e5a-c1cfeda340f1" "Mentor Resources, *MIT UROP Office*" %}}
+- {{% resource_link "638a2ada-23e6-4f4e-b918-e056d9716fbf" "*Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do*" %}}, Claude M Steele, 2010. ISBN: 9780393062496.
 
 Additional worksheets and personalized exercises will be provided for each topic.
 
