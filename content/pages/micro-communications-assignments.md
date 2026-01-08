@@ -19,7 +19,7 @@ For this assignment, you will create either a blog post or a video that addresse
 
 The goal of the second assignment is for you to develop and communicate a deeper understanding of the relevant materials that you are studying in your research project. 
 
-Step 1: You will begin by conducting a literature review of the relevant materials and technologies and develop a bibliography of the important literature in the field. Take a look at the {{% resource_link "bb342af7-750f-4100-93ba-308b85c7655d" "Materials Research Society’s archive of the MRS Bulletin" %}}. Written for the broader scientific community, the MRS Bulletin focuses on a specific topic currently of interest in the field of MS&E. Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of Materials Science and Engineering research.
+Step 1: You will begin by conducting a literature review of the relevant materials and technologies and develop a bibliography of the important literature in the field. Take a look at the [Materials Research Society’s archive of the MRS Bulletin](https://link.springer.com/journal/43577/volumes-and-issues). Written for the broader scientific community, the MRS Bulletin focuses on a specific topic currently of interest in the field of MS&E. Look through to see if you can find a relevant volume.  Read through the issue to try to gain a better overview of the important research, developments, and challenges that relate to your field of Materials Science and Engineering research.
 
 Then, you will do one of the following:
 
